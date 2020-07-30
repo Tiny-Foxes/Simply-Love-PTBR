@@ -1,6 +1,8 @@
 # Simply-Love-PTBR
 pt-BR translation of Simply Love SM5
 
+**This DOES NOT support Simply Love 4.9 yet. (neither does it support 5.3)**
+
 This is an update to the already available pt-br translation in Simply Love SM5, this has massive changes:
 
 - Removed fallback from 5.1
